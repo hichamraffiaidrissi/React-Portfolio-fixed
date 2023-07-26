@@ -25,7 +25,7 @@ npm start
 ```  
 ### live link for the application
 
-(https://hichamraffiaidrissi.github.io/React_Portfolio/#/about) 
+() 
 #### Screenshot
 
 ![Screenshots](./src/images/screenshot_1.png)
